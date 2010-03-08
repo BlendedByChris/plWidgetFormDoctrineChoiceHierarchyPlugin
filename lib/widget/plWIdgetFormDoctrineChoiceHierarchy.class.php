@@ -8,13 +8,13 @@
   */
 
 /**
-  * A form widget which displays a hiearchical set of choices.
+  * A Symfony form widget which displays a hierarchical set of choices.
   *
   * @package PromoteLabs
   * @author Chris LeBlanc <chris@webPragmatist.com>
   */
 
-class plWidgetFormDoctrineChoiceHiearchy extends sfWidgetFormChoice
+class plWidgetFormDoctrineChoiceHierarchy extends sfWidgetFormChoice
 {
   /**
     * @see sfWidget
